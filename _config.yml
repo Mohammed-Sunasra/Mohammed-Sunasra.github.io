@@ -1,1 +1,51 @@
-theme: jekyll-theme-slate
+# Permalinks
+permalink: pretty
+excerpt_separator: "<!--more-->"
+
+# Setup
+title: Mohammed-Sunasra
+tagline: "Learning and growing everyday"
+description: "A peek into my life"
+url: https://mohammed-sunasra.github.io/
+baseurl: ""
+paginate: 5
+paginate_path: "/page:num/"
+exclude: ["posts"]
+pages_list:
+  About: "/about"
+  Archive: "/archive"
+  Contact: "/contact"
+  Life: "/life"
+
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+
+collections:
+  summaries:
+    output: false
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+# About/contact
+author:
+  name: Mohammed Sunasra
+  url: https://mohammed-sunasra.github.io/
+  email: sunasramohd@gmail.com
+
+# Custom vars
+version: 2.0.0
+github:
+  repo: https://github.com/poole/poole
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+  # - octopress-video-tag

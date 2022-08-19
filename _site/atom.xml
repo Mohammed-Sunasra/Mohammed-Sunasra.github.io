@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Mohammed-Sunasra</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2022-08-19T20:09:07+05:30</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Mohammed Sunasra</name>
+   <email>sunasramohd@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Getting started!</title>
+   <link href="http://localhost:4000/2022/08/19/hello-world/"/>
+   <updated>2022-08-19T00:00:00+05:30</updated>
+   <id>http://localhost:4000/2022/08/19/hello-world</id>
+   <content type="html">&lt;p&gt;Lorem Ipsum.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
