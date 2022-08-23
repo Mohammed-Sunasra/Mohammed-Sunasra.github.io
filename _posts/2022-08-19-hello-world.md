@@ -5,7 +5,6 @@ comments: true
 excerpt: Let's get started! Why I want always wanted to start a blog and here we are now. Know more about what's coming.
 ---
 
-<hr />
 ## Overview
 
 Hello there! Welcome to my blog. I am a tech enthusiast currently building Pixeldust and working as an all-around engineer in the areas of Backend Development, MLOPs, Machine learning, and also a bit on DevOps. If you wish to find more about me or contact me, please visit [About]({% link about.md %}) or [Contact]({% link contact.md %})

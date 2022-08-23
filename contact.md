@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <hr /> Contact Me.
+title: Contact Me.
 ---
 
 In case you plan to collaborate or want to chat about anything, feel free to write to me or connect with me.

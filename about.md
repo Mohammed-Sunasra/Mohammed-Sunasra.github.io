@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <hr /> About Me.
+title: About Me.
 ---
 
 Hello there! I am Mohammed, welcome to my blog. I am an engineer that likes to work on challenging problems
