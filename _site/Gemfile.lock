@@ -256,6 +256,7 @@ PLATFORMS
   x86_64-darwin-21
 
 DEPENDENCIES
+  gemoji
   github-pages
   i18n (~> 0.9.5)
   jekyll-gist

@@ -1,29 +1,44 @@
 ---
 layout: page
-title: About
+title: <hr /> About Me.
 ---
 
-# Mohammed Sunasra - <strong>Founder</strong> at [Pixeldust Technologies](https://www.pixeldust.in/)
+Hello there! I am Mohammed, welcome to my blog. I am an engineer that likes to work on challenging problems
 
-![placeholder](/images/profile2.jpg)
+![placeholder](/images/profile.jpg)
 
-### Background
+## What I do currently
 
-After completing my Engineering in 2015, started from working as a Software Engineer at IGATE(later then aquired by Capgemini). Post that upskilled myself and started pivoting more and more into machine learning. After exploring and learning the bits and pieces of Machine learning, joined Prudential in their COE team responsible for building AI based solutions across the Prudential verticals.
-After that left Prudential to start my own venture at [Pixeldust Technologies](https://www.pixeldust.in/), where I got much more exposure into all side of technology and business
+Currently, I am working as a Co-founder at [Pixeldust Technologies](https://www.pixeldust.in/) where I look into multiple areas in tech spanning from Backend engineering to Machine/Deep Learning to DevOps.
 
-### What I do currently
+## About Pixeldust
 
-Every now and then, I dabble into various technologies that interest me and do PoC's on them if I find them interesting enough and practicle on any of the projects I am working on. Below are some of the areas/tools/technologies that I am proficient on with hands on experience
+We work with all sizes of companies either Fortune 500 or early-stage startups to help them build their tech platforms and products with modern, robust, and state-of-the-art tools and technologies.
 
-### Tech Stack
+We help our clients with plug-and-play teams right from Day1 so we can get help them get started and they can focus on their business growth rather than worrying about technological capabilities and challenges
 
-Machine Learning: MLOPs, Machine Learning, Computer Vision, Django, Rest APIs,
+## Why this blog?
 
-DevOps: Docker, Kubernetes, Terraform,
+I believe teaching is the best way of learning and diving deeper into concepts.
+This blog serves as a notes app or living documentation about stuff I am learning/experiencing over time, so you could find me revisiting the content and updating it as needed.
+<br>
+I hope people find the content interesting and helpful in their tech journey.
+Another reason is I also wanted to improve my writing skills and couldn't have found a better way of doing so without this blog, so here we are!
 
-Backend: Python, Django, Django Rest Framework
+## Tech Stack
 
-### Other Interests
+Over the past 7 years, I have worked across different areas of computer science like Web development, Data science, Machine learning, Backend engineering, Systems design and architecture, DevOps, etc. Below is an overview of the tools/technologies/framework that I work with or have worked with in past.
+
+<strong>Frontend:</strong> HTML, CSS, Javascript, VueJS, Typescript
+
+<strong>Backend:</strong> Python, Django, Django Rest Framework, NGINX, Celery, Redis, PostgreSQL, MySQL, MongoDB, GraphQL
+
+<strong>Machine Learning:</strong> Pandas, Numpy, Keras, PyTorch, Rest APIs
+
+<strong>DevOps:</strong> Docker, Kubernetes, Terraform, CI/CD, Azure DevOps
+
+You can find some of my work in the above areas here on [Github](https://github.com/Mohammed-Sunasra)
+
+## Other Interests
 
 I am a big time sports junkie and I spend my weekends either watching sports or playing.

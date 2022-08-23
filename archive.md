@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archive
+title: <hr />Archive
 ---
 
 ### Blog Posts

@@ -22,6 +22,9 @@ markdown: kramdown
 kramdown:
   input: GFM
 
+plugins:
+  - jemoji
+
 collections:
   summaries:
     output: false
@@ -48,4 +51,5 @@ github:
 gems:
   - jekyll-paginate
   - jekyll-gist
+  - jemoji
   # - octopress-video-tag

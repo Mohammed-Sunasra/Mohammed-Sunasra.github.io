@@ -4,7 +4,7 @@
  <title>Mohammed-Sunasra</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-08-19T20:09:07+05:30</updated>
+ <updated>2022-08-23T14:18:11+05:30</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mohammed Sunasra</name>
@@ -17,7 +17,29 @@
    <link href="http://localhost:4000/2022/08/19/hello-world/"/>
    <updated>2022-08-19T00:00:00+05:30</updated>
    <id>http://localhost:4000/2022/08/19/hello-world</id>
-   <content type="html">&lt;p&gt;Lorem Ipsum.&lt;/p&gt;
+   <content type="html">&lt;hr /&gt;
+
+&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;Hello there! Welcome to my blog. I am a tech enthusiast currently building Pixeldust and working as an all-around engineer in the areas of Backend Development, MLOPs, Machine learning, and also a bit on DevOps. If you wish to find more about me or contact me, please visit &lt;a href=&quot;/about/&quot;&gt;About&lt;/a&gt; or &lt;a href=&quot;/contact/&quot;&gt;Contact&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;While I have always pondered upon the idea of starting a tech blog for the past few years, I found myself too busy either building stuff or learning new skills.&lt;/p&gt;
+
+&lt;p&gt;I am currently at a stage where I get to try out a lot of new stuff in tech(languages, tools, frameworks) and always wanted to document my understanding.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;topics&quot;&gt;Topics&lt;/h2&gt;
+
+&lt;p&gt;You would find me posting about things like Programming(in general), Django, REST APIs, Docker, Kubernetes, Podcasts, or life experiences.&lt;/p&gt;
+
+&lt;p&gt;Many of the posts in this blog would be like notes, so I’ll revisit them, add more content or change something here and there.&lt;/p&gt;
+
+&lt;p&gt;The main purpose of this blog is to keep things as a living document that I can use to teach others and also re-learn things in the future to refresh my memory.&lt;/p&gt;
+
+&lt;p&gt;Excited to start doing what I always wanted and would try my best to explain things in a way people can benefit from it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Thank you,&lt;/strong&gt;
+:heart:&lt;/p&gt;
 </content>
  </entry>
  
