@@ -7,6 +7,7 @@ title: Mohammed-Sunasra
 tagline: "Learning and growing everyday"
 description: "A peek into my life"
 url: https://mohammed-sunasra.github.io/
+google_analytics: "G-QYLSWLZRDR"
 baseurl: ""
 paginate: 5
 paginate_path: "/page:num/"

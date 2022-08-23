@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Mohammed-Sunasra</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2022-08-23T14:31:52+05:30</updated>
- <id>http://localhost:4000</id>
+ <link href="https://mohammed-sunasra.github.io//atom.xml" rel="self"/>
+ <link href="https://mohammed-sunasra.github.io//"/>
+ <updated>2022-08-23T18:07:23+05:30</updated>
+ <id>https://mohammed-sunasra.github.io/</id>
  <author>
    <name>Mohammed Sunasra</name>
    <email>sunasramohd@gmail.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Getting started!</title>
-   <link href="http://localhost:4000/2022/08/19/hello-world/"/>
+   <link href="https://mohammed-sunasra.github.io//2022/08/19/hello-world/"/>
    <updated>2022-08-19T00:00:00+05:30</updated>
-   <id>http://localhost:4000/2022/08/19/hello-world</id>
+   <id>https://mohammed-sunasra.github.io//2022/08/19/hello-world</id>
    <content type="html">&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
 
 &lt;p&gt;Hello there! Welcome to my blog. I am a tech enthusiast currently building Pixeldust and working as an all-around engineer in the areas of Backend Development, MLOPs, Machine learning, and also a bit on DevOps. If you wish to find more about me or contact me, please visit &lt;a href=&quot;/about/&quot;&gt;About&lt;/a&gt; or &lt;a href=&quot;/contact/&quot;&gt;Contact&lt;/a&gt;&lt;/p&gt;

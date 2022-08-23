@@ -3,7 +3,9 @@
 
   {% include head.html %}
 
-  {% include google_analytics.html %}
+  {% if jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %}
 
   <body>
 
