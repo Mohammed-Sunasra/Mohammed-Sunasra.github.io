@@ -25,6 +25,7 @@ kramdown:
 
 plugins:
   - jemoji
+  - jekyll-seo-tag
 
 collections:
   summaries:
